@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Markcoolid
-- 👀 I’m interested in writing programs.
-- 🌱 I’m currently learning any programming lauguage that I can.
-- 💞️ I’m looking to collaborate on coding.
-- 📫 How to reach me make a comment I'll find you.
+Hey, I'm Mark a HS student and programmer. 
+I code tons of weird stuff in a variety of languages.
+
 
 <!---
 Markcoolid/Markcoolid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
