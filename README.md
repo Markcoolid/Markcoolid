@@ -1,4 +1,4 @@
-Hey, I'm Mark a HS student and programmer. 
+Hey, I'm Mark, a comp sci major at Iowa State.
 I code tons of weird stuff in a variety of languages.
 
 
